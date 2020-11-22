@@ -20,7 +20,3 @@ Um pequeno utilitário que ajuda a testar serviços da web que se comunicam com 
 
 Para começar basta abrir o arquivo index.html na pasta principal, inserir seus dados e enviar a solicitação!
 
-## Screenshots
-
-![Screenshot 1](http://fidelisfactory.github.com/json-webservice-tester/screenshot1.png "Screenshot 1")
-![Screenshot 2](http://fidelisfactory.github.com/json-webservice-tester/screenshot2.png "Screenshot 2")
